@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42518
     wikipedia: http://en.wikipedia.org/wiki/Augustus_Pitt_Rivers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44014#Antique-Works-of-Art-from-BeninCollected-by-Lieutenant-General-Pitt-Rivers
 gutenberg_issued: '2013-10-22'
 gutenberg_type: Text
 identifiers:
